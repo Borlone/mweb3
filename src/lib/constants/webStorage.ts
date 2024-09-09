@@ -1,0 +1,1 @@
+export const ACTIVE_WALLET_ID = 'mweb3:active_wallet_id';
